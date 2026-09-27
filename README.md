@@ -13,7 +13,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/pacman-output/breakout-contribution-graph.svg?game=breakout">
         <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/pacman-output/breakout-contribution-graph.svg?game=breakout">
       </picture>
-      <h4 data-importer="text" align="justify">A first-year Software Engineering student at the Universidade Católica de Brasília (UCB) and a Web Developer from Brasília, Brazil, graduating in 2230. I'm currently an intern at the Office of the Comptroller General (CGU), where I built Neuron, a Chrome extension that automates deadline tracking, response templates and reporting for the Fala.BR platform, now used daily by ombudsman operators. I work mostly with JavaScript/TypeScript, Next.js and NestJS, and I'm currently learning!!!</h4>
+      <p data-importer="text" align="justify"><small>A first-year Software Engineering student at the Universidade Católica de Brasília (UCB) and a Web Developer from Brasília, Brazil, graduating in 2030. I'm currently an intern at the Office of the Comptroller General (CGU), where I built Neuron, a Chrome extension that automates deadline tracking, response templates and reporting for the Fala.BR platform, now used daily by ombudsman operators. I work mostly with JavaScript/TypeScript, Next.js and NestJS, and I'm currently learning!!!</small></p>
     </td>
   </tr>
 </table>
@@ -67,8 +67,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=devLucasEmiliano&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%22M%5B%22Y%5D" height="130" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=322&langs_count=10&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=devLucasEmiliano&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="130" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
