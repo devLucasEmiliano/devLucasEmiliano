@@ -13,7 +13,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/pacman-output/breakout-contribution-graph.svg?game=breakout">
         <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/pacman-output/breakout-contribution-graph.svg?game=breakout">
       </picture>
-      <p data-importer="text" align="justify"><small>A first-year Software Engineering student at the Universidade Católica de Brasília (UCB) and a Web Developer from Brasília, Brazil, graduating in 2030. I'm currently an intern at the Office of the Comptroller General (CGU), where I built Neuron, a Chrome extension that automates deadline tracking, response templates and reporting for the Fala.BR platform, now used daily by ombudsman operators. I work mostly with JavaScript/TypeScript, Next.js and NestJS, and I'm currently learning!!!</small></p>
+      <h6 data-importer="text" align="justify">A first-year Software Engineering student at the Universidade Católica de Brasília (UCB) and a Web Developer from Brasília, Brazil, graduating in 2030. I'm currently an intern at the Office of the Comptroller General (CGU), where I built Neuron, a Chrome extension that automates deadline tracking, response templates and reporting for the Fala.BR platform, now used daily by ombudsman operators. I work mostly with JavaScript/TypeScript, Next.js and NestJS, and I'm currently learning!!!</h6>
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
   <img width="1" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="22" alt="javascript logo"  />
   <img width="1" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="22" alt="typescript logo"  />
+  <img width="1" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="22" alt="html5 logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="22" alt="css logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="22" alt="typescript logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="22" alt="nodejs logo"  />
   <img width="1" />
