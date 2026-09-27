@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="270" src="https://giphy.com/gifs/blizzard-ent-3oKIPhyDIOEIlsoTIs"  />
+<img data-importer="image" align="left" height="270" src="public\adjutant-starcraft2.gif"  />
 
 ###
 
@@ -65,8 +65,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=devLucasEmiliano&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="50" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="46" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=devLucasEmiliano&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
