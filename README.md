@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td valign="top" width="400">
-      <img data-importer="image" src="public/adjutant-starcraft2.gif" height="64" alt="adjutant" />
+    <td valign="top" width="128">
+      <img data-importer="image" src="public/adjutant-starcraft2.gif" height="128" alt="adjutant" />
     </td>
     <td valign="top">
       <picture data-importer="pacman">
