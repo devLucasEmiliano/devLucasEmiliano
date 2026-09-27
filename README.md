@@ -20,7 +20,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="justify">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="20" alt="linux logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="20" alt="figma logo"  />
@@ -67,8 +67,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=devLucasEmiliano&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="125" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="125" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=devLucasEmiliano&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/devLucasEmiliano/devLucasEmiliano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
